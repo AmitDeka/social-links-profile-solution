@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/AmitDeka/social-links-profile-solution)
+- Live Site URL: [Click Here](https://amitdeka.github.io/social-links-profile-solution/)
 
 ## My process
 
